@@ -44,9 +44,10 @@
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/485ff7a8-77da-4225-95f2-0de5707c2564" title="Bookmarker" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media" title="Vampire" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/a22e9d4e-9d3e-4a9a-a905-947ea5362724" title="Learner" width="55" height="55"/></a>
-<a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/e27ee245-cbaa-4664-ae05-0e135aed67d5" title="Completed Gen AI Intensive" width="54" height="55"/></a>
+<a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F59be06dc5fa3103f7f3d4064730449a4%2FBadge-38.svg?generation=1727468372542689&alt=media" title="Student" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/cdb3691a-942b-4c49-8fd2-1ce9d0fd6044" title="7 Day Login Streak" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/007f0147-ce17-4d08-abd1-2da60410e84b" title="30 Day Login Streak" width="57" height="55"/></a>
+<a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F48e340e2f9017ee9ca792d4dee295aff%2FBadge-55.svg?generation=1727468713732610&alt=media" title="100 Day Login Streak" width="57" height="55"/></a>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anseuradel&layout=compact&theme=dracula)
