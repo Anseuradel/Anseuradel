@@ -28,7 +28,6 @@
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/356f6265-bedc-4899-a0b9-01205c8feeb4" title="Python Coder" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/604be16a-94a3-4d3f-a39a-917fd7f885b0" title="Code Uploader" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/abb24199-0204-4863-a99a-62d33b17136e" title="Github Coder" width="55" height="55"/></a>
-<a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/7e37b94c-9fa9-4baa-bf22-c7befd3b657e" title="Colab Coder" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/b6dc4d26-6c4a-4bf7-902e-e7794b6ad877" title="Code Tagger" width="53" height="53"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/28161b4d-2190-4956-b502-5364c97d7a2c" title="Code Forker" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseurc" target="_blank"><img src="https://github.com/user-attachments/assets/2ed83bc0-ab18-4bcb-9060-319548e64f37" title="Notebook Modeler" width="55" height="55"/></a>
