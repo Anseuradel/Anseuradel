@@ -11,10 +11,10 @@
 
 <p align="center"><a href="https://github.com/Anseuadel"><img src="https://github-trophies.vercel.app/?username=Anseuradel&theme=algolia&margin-w=19&title=Repositories,Commits,MultiLanguage,LongTimeUser,Followers,NewUser&column=6" /></a></p>
 
-👋 Hello, I'm Adel
-👀 I'm interested in TECHNOLOGY.
-🌱 I'm currently learning Data science
-🏅 Kaggle Notebook/Dataset Expert
-📫 How to reach me -- DMs below 👇
+- 👋 Hello, I'm Adel
+- 👀 I'm interested in TECHNOLOGY.
+- 🌱 I'm currently learning Data science
+- 🏅 Kaggle Notebook/Dataset Expert
+- 📫 How to reach me -- DMs below 👇
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anseuradel&layout=compact&theme=dracula)
