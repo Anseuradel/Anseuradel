@@ -42,7 +42,7 @@
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/566496bf-801e-4919-ab62-6e69770d7569" title="Stylish" width="53" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/00365d44-cc86-4555-b3f6-7add8b378990" title="Collector" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/485ff7a8-77da-4225-95f2-0de5707c2564" title="Bookmarker" width="55" height="55"/></a>
-<a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/bde58999-0cc2-4dd3-ab16-8720a8730862" title="Vampire" width="55" height="55"/></a>
+<a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media" title="Vampire" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/a22e9d4e-9d3e-4a9a-a905-947ea5362724" title="Learner" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/e27ee245-cbaa-4664-ae05-0e135aed67d5" title="Completed Gen AI Intensive" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/cdb3691a-942b-4c49-8fd2-1ce9d0fd6044" title="7 Day Login Streak" width="54" height="55"/></a>
