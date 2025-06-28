@@ -1,4 +1,4 @@
-👋 Hello, I'm Ozan
+👋 Hello, I'm Adel
 👀 I'm interested in TECHNOLOGY.
 🌱 I'm currently learning Data science
 🏅 Kaggle Notebook/Dataset Expert
