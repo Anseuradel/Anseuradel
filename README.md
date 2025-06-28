@@ -38,6 +38,7 @@
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/8d506c94-76f4-4733-86b8-4c28248c2fc9" title="Dataset Creator" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/093498fa-e547-4e99-9b63-4c108a55f3c9" title="Dataset Documenter" width="57" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/5362f321-df69-4863-94f3-4ed2be5cfdcc" title="Dataset Tagger" width="55" height="54"/></a>
+<a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Feb028e2f7e6b3e2bef2b3682f6919224%2FBadge-25.svg?generation=1727468044501552&alt=media" title="Competition Modeler" width="55" height="54"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/566496bf-801e-4919-ab62-6e69770d7569" title="Stylish" width="53" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/00365d44-cc86-4555-b3f6-7add8b378990" title="Collector" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/485ff7a8-77da-4225-95f2-0de5707c2564" title="Bookmarker" width="55" height="55"/></a>
