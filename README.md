@@ -17,4 +17,9 @@
 - 🏅 Kaggle Notebook/Dataset Expert
 - 📫 How to reach me -- DMs below 👇
 
+## Social Media (Click Logos😊)
+| LinkedIn | Kaggle | 
+|----------|--------|
+|<p align="center"><a href="https://www.linkedin.com/in/Anseuradel/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="40" height="40"/></a><a href="https://www.linkedin.com/in/Anseuradel/" target="_blank"></a></p>|<p align="center"><a href="https://www.kaggle.com/Anseuradel" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" width="55" height="55"/></a></p>|<p align="center"><a
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anseuradel&layout=compact&theme=dracula)
