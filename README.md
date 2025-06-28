@@ -49,5 +49,15 @@
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/007f0147-ce17-4d08-abd1-2da60410e84b" title="30 Day Login Streak" width="57" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F48e340e2f9017ee9ca792d4dee295aff%2FBadge-55.svg?generation=1727468713732610&alt=media" title="100 Day Login Streak" width="57" height="55"/></a>
 
+<p align="center">
+  <a href="https://github.com/Anseuradel">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anseuradelu&layout=compact&langs_count=8&card_width=321&theme=radical" />
+  </a>
+</p>
+ 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anseuradel&style=for-the-badge&color=blue" alt=""/>
+</div>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anseuradel&layout=compact&theme=dracula)
