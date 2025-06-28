@@ -32,7 +32,6 @@
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/28161b4d-2190-4956-b502-5364c97d7a2c" title="Code Forker" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseurc" target="_blank"><img src="https://github.com/user-attachments/assets/2ed83bc0-ab18-4bcb-9060-319548e64f37" title="Notebook Modeler" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/8d506c94-76f4-4733-86b8-4c28248c2fc9" title="Dataset Creator" width="54" height="55"/></a>
-<a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/4a0ad06e-c9f0-4e1f-8060-96b86947758a" title="Linked Dataset Creator" width="53" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/093498fa-e547-4e99-9b63-4c108a55f3c9" title="Dataset Documenter" width="57" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/5362f321-df69-4863-94f3-4ed2be5cfdcc" title="Dataset Tagger" width="55" height="54"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/566496bf-801e-4919-ab62-6e69770d7569" title="Stylish" width="53" height="55"/></a>
