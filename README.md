@@ -23,7 +23,8 @@
 |<p align="center"><a href="www.linkedin.com/in/adel-anseur1234" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="40" height="40"/></a><a href="www.linkedin.com/in/adel-anseur1234" target="_blank"></a></p>|<p align="center"><a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" width="55" height="55"/></a></p>|<p align="center"><a
 
 
-## Kaggle Badges🎖️ 
+## Kaggle Badges🎖️
+<a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F163e0f27360ae958da99dde2a68f7e00%2FBadge-46.svg?generation=1727468408101916&alt=media" title="1 Year on Kaggle" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/cd521ed5-aab7-47fa-8c8c-e5b9cb6e141e" title="Getting Started Competitor" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/356f6265-bedc-4899-a0b9-01205c8feeb4" title="Python Coder" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/adelanseur" target="_blank"><img src="https://github.com/user-attachments/assets/604be16a-94a3-4d3f-a39a-917fd7f885b0" title="Code Uploader" width="55" height="55"/></a>
