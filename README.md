@@ -59,7 +59,13 @@
   <img src="https://komarev.com/ghpvc/?username=Anseuradel&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-## Frameworks ❤️
-| Pandas | Numpy | Matplotlib | Seaborn | Power BI | Tableau |
-|-------|--------|------------|---------|----------|---------|
-| <p align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s" alt="pandas" title="Pandas" width="45" height="45"/> </a></p> | <p align="center"><img src="https://miro.medium.com/v2/resize:fit:646/1*ohXKD3FJhC0E-8bj_DWTOw.jpeg" title="Numpy" alt="Numpy" width="65" height="65"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="mpl" title="Matplotlib" width="40" height="40"/></p> | <p align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="45" height="45"/> </a></p> | <p align="center"><img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power BI" title="Power BI" width="55" height="55" /></p>|<p align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="55" height="55"/></p>|
+## Data Wrangling & Visualization
+
+| Pandas | NumPy | Matplotlib | Seaborn | Power BI | Tableau |
+|--------|-------|------------|---------|----------|---------|
+| <div align="center"><img src="https://github.com/user-attachments/assets/436f8783-de65-46b8-831b-b350a94a79a2" alt="pandas" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/c91a23fa-3da9-413b-a513-72581a105aba" alt="numpy" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/4ce134fd-6877-4f7d-9583-404e88872442" alt="matplotlib" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/cead10ea-705b-4806-812c-96c52c0212ef" alt="seaborn" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/817a5cdd-110b-402b-96aa-9862d40ef8db" alt="powerbi" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/d23db61a-99c5-4d3a-aceb-cf18214bdc4c" alt="tableau" width="55" height="55"></div> |
+
+
+
+
+
