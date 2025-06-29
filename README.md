@@ -86,7 +86,7 @@
 |--------|-------|
 | <div align="center"><img src="https://github.com/user-attachments/assets/bd2d3151-65f1-4df9-a28e-307faa01f126" alt="AWS" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/faa6b9e8-7232-447f-a228-979d2fc50cbe" alt="Docker" width="55" height="55"></div> |
 
-## IDE's
+## Development Environments
 
 | Visual studio | Google colab | Jupyter notebook |
 |--------|-------|------------|
