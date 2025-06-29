@@ -73,6 +73,13 @@
 | <div align="center"><img src="https://github.com/user-attachments/assets/357dd332-509d-4794-bf47-0360e5eb5bd1" alt="Scikit-learn" width="95" height="95"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/277a3ace-20f4-4830-b3e4-7a853dd6199f" alt="Keras" width="55" height="55"></div> |
 
 
+## Databases and big data
+
+| SQL | Spark |
+|--------|-------|
+| <div align="center"><img src="https://github.com/user-attachments/assets/fd1178c4-12f7-485f-9dac-5a4906544661" alt="SQL" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/b1618410-363c-4104-99c4-9772a1283b3c" alt="Spark" width="55" height="55"></div> |
+
+
 
 
 
