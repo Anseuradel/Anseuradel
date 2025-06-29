@@ -98,3 +98,17 @@
 | Git | Github |
 |--------|-------|
 | <div align="center"><img src="https://github.com/user-attachments/assets/b0f28c1d-9353-4213-be5f-7e4cd2c73fbb" alt="Git" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/f646a6fd-b06d-4953-9e2b-0aa6e3018d9c" alt="Github" width="55" height="55"></div> |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientStart=FFD700&gradientEnd=FF4500&height=100&section=footer"/>
+</p>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anseuradel&repo=Anseuradel&theme=radical&show_owner=true" alt="Project Card">
+</div>
