@@ -66,6 +66,16 @@
 | <div align="center"><img src="https://github.com/user-attachments/assets/436f8783-de65-46b8-831b-b350a94a79a2" alt="pandas" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/c91a23fa-3da9-413b-a513-72581a105aba" alt="numpy" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/4ce134fd-6877-4f7d-9583-404e88872442" alt="matplotlib" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/cead10ea-705b-4806-812c-96c52c0212ef" alt="seaborn" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/817a5cdd-110b-402b-96aa-9862d40ef8db" alt="powerbi" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/d23db61a-99c5-4d3a-aceb-cf18214bdc4c" alt="tableau" width="55" height="55"></div> |
 
 
+## Machine learning
+
+| Scikit-learn | Keras |
+|--------|-------|
+| <div align="center"><img src="https://github.com/user-attachments/assets/357dd332-509d-4794-bf47-0360e5eb5bd1" alt="Scikit-learn" width="95" height="95"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/277a3ace-20f4-4830-b3e4-7a853dd6199f" alt="Keras" width="55" height="55"></div> |
+
+
+
+
+
 
 
 
