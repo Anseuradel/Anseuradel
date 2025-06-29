@@ -73,15 +73,24 @@
 | <div align="center"><img src="https://github.com/user-attachments/assets/357dd332-509d-4794-bf47-0360e5eb5bd1" alt="Scikit-learn" width="95" height="95"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/277a3ace-20f4-4830-b3e4-7a853dd6199f" alt="Keras" width="55" height="55"></div> |
 
 
-## Databases and big data
+## Databases & big data
 
 | SQL | Spark |
 |--------|-------|
 | <div align="center"><img src="https://github.com/user-attachments/assets/fd1178c4-12f7-485f-9dac-5a4906544661" alt="SQL" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/b1618410-363c-4104-99c4-9772a1283b3c" alt="Spark" width="55" height="55"></div> |
 
 
+## Cloud & Deployment
 
+| AWS | Docker |
+|--------|-------|
+| <div align="center"><img src="https://github.com/user-attachments/assets/bd2d3151-65f1-4df9-a28e-307faa01f126" alt="AWS" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/faa6b9e8-7232-447f-a228-979d2fc50cbe" alt="Docker" width="55" height="55"></div> |
 
+## IDE's
+
+| Visual studio | Google colab | Jupyter notebook |
+|--------|-------|------------|
+| <div align="center"><img src="https://github.com/user-attachments/assets/2e1459cd-1b8f-4acd-8e17-c47ec32c5e5e" alt="Visual studio" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/18080f2b-466e-4e51-a2dc-96937a61807a" alt="Google colab" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/9d726b51-746f-47fc-8599-b4be6410e029" alt="Jupyter notebook" width="55" height="55"></div> |
 
 
 
