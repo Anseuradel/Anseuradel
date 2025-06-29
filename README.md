@@ -99,16 +99,24 @@
 |--------|-------|
 | <div align="center"><img src="https://github.com/user-attachments/assets/b0f28c1d-9353-4213-be5f-7e4cd2c73fbb" alt="Git" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/f646a6fd-b06d-4953-9e2b-0aa6e3018d9c" alt="Github" width="55" height="55"></div> |
 
+<!-- Dynamic Snake Grid (keeps your contribution tracker) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+
+<!-- Gradient Waving Banner with Custom Text -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientStart=FFD700&gradientEnd=FF4500&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientStart=6a11cb&gradientEnd=2575fc&height=120&section=footer&text=%20Anseuradel%20&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anseuradel&repo=Anseuradel&theme=radical&show_owner=true" alt="Project Card">
-</div>
+<!-- Interactive Badges -->
+<p align="center">
+  <a href="https://github.com/Anseuradel?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My_Repositories-2575fc?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/Anseuradel?tab=stars">
+    <img src="https://img.shields.io/badge/My-Stars-FFD700?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+</p>
