@@ -70,7 +70,7 @@
 
 | Scikit-learn | Keras |
 |--------|-------|
-| <div align="center"><img src="https://github.com/user-attachments/assets/357dd332-509d-4794-bf47-0360e5eb5bd1" alt="Scikit-learn" width="95" height="95"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/277a3ace-20f4-4830-b3e4-7a853dd6199f" alt="Keras" width="55" height="55"></div> |
+| <div align="center"><img src="https://github.com/user-attachments/assets/357dd332-509d-4794-bf47-0360e5eb5bd1" alt="Scikit-learn" width="85" height="85"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/277a3ace-20f4-4830-b3e4-7a853dd6199f" alt="Keras" width="55" height="55"></div> |
 
 
 ## Databases & big data
@@ -93,5 +93,8 @@
 | <div align="center"><img src="https://github.com/user-attachments/assets/2e1459cd-1b8f-4acd-8e17-c47ec32c5e5e" alt="Visual studio" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/18080f2b-466e-4e51-a2dc-96937a61807a" alt="Google colab" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/9d726b51-746f-47fc-8599-b4be6410e029" alt="Jupyter notebook" width="55" height="55"></div> |
 
 
+## Version Control
 
-
+| Git | Github |
+|--------|-------|
+| <div align="center"><img src="https://github.com/user-attachments/assets/b0f28c1d-9353-4213-be5f-7e4cd2c73fbb" alt="Git" width="55" height="55"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/f646a6fd-b06d-4953-9e2b-0aa6e3018d9c" alt="Github" width="55" height="55"></div> |
